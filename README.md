@@ -1,2 +1,2 @@
 # Mapping
-Created a web map using Python and Folium.
+Created a web map using Python and Folium. The webmap has features two layers that can be toggled. The first layer is the polygon layer ('Population') which shows the population size by color on the map (<10,000,000 is green, <20,000,000 is orange and >20,000,000 is red). The other layer is a marker layer that shows all the volcanoes in the United States. It is also color coordinated by height and provides links to learn more about each volcano.
